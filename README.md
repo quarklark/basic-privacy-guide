@@ -1,4 +1,4 @@
-# basic-privacy-guide
+# Basic Security Guide
 
 This guide outlines basic steps for securing your digital life, assuming you're already convinced that privacy and security are important. Focus is on harm reduction - It’s like putting on your digital seat belt.
 
